@@ -11,7 +11,7 @@ I specialize in **mobile development** using **Flutter** and **Dart**. I also en
 
 
 ## Contact Me
-[![Email](https://img.shields.io/badge/Email-%40mohoCoder1-orange)](mailto:mohocoder@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40mohoCoder1-blue)](https://t.me/mohammadali_khatami)
+[![Email](https://img.shields.io/badge/Email-GMAIL-orange)](mailto:mohocoder@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-TELEGRAM-blue)](https://t.me/mohammadali_khatami)
 
 
